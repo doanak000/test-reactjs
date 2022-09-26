@@ -1,0 +1,22 @@
+.item {
+    width: 200px;
+    height: 240px;
+    background: #FFFFFF;
+    border: 1px solid #F1F1F5;
+    box-shadow: 0px 12px 18px rgba(23, 23, 37, 0.04);
+    border-radius: 4px;
+    .item-price {
+        font-weight: 600;
+        font-size: 16px;
+        color: #0062FF;
+        padding-left: 16px;
+    }
+    .item-describe {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: -0.005em;
+        padding-left: 16px;
+        color: #92929D;
+    }
+}
